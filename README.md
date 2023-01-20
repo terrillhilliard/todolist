@@ -8,6 +8,7 @@ Description
 This is a simple todo list web application that allows users to create, read, update, and delete tasks. The app is built using Node.js with the Express framework and EJS as the template engine.
 
 
+
 Installation
 
 
@@ -18,6 +19,7 @@ Installation
 • Start the server: npm start
 
 • Visit the app in your browser at http://localhost:3000
+
 
 
 Features
@@ -36,6 +38,7 @@ Features
 • Node.js
 
 • npm
+
 
 
 Technologies Used
