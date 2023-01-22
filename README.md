@@ -24,6 +24,7 @@ Installation
 
 
 
+
 Features
 
 
@@ -35,11 +36,14 @@ Features
 
 • Delete tasks
 
-• Requirements
+
+
+Requirements
 
 • Node.js
 
 • npm
+
 
 
 
