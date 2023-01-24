@@ -4,10 +4,15 @@ Access website: terrilltodolist.herokuapp.com
 
 
 
+
+
 Description
 
 
 This is a simple todo list web application that allows users to create, read, update, and delete tasks. The app is built using Node.js with the Express framework and EJS as the template engine.
+
+
+
 
 
 
@@ -25,6 +30,9 @@ Installation
 
 
 
+
+
+
 Features
 
 
@@ -35,6 +43,10 @@ Features
 • Edit existing tasks
 
 • Delete tasks
+
+
+
+
 
 
 
