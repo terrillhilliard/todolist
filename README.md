@@ -16,22 +16,6 @@ This is a simple todo list web application that allows users to create, read, up
 
 
 
-Installation
-
-
-• Clone the repository: git clone https://github.com/yourusername/todo-list-app.git
-
-• Install the dependencies: npm install
-
-• Start the server: npm start
-
-• Visit the app in your browser at http://localhost:3000
-
-
-
-
-
-
 
 Features
 
